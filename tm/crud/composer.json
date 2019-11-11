@@ -1,0 +1,13 @@
+{
+    "name": "tm/crud",
+    "description": "This package will add CRUD",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Lalit J",
+            "email": "lalit.jhandai@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
